@@ -1,0 +1,10 @@
+uuid: 13156315-bf3f-39fe0dbf4xxx
+user_id: efb345116a-70a8-4f01-9b1c-c2e8e8a29xxx
+enable_telemetry: true
+show_update_notification: true
+cli_environment: default
+pat: MffbKNKrz5wTp1BFuaefgQEGADbwdjHr5IsJxQFiLfg5xfqzEFZlBGs2kVhrqCl6xxx
+promptql_secret_keys:
+  blue-urchin-6152:local-playground: 9163cb6e-43vc-bfca-2aa22bdfdxxx
+  charming-terrier-2328:local-playground: 50111a424-9aab-b4ab-c51aab5dexxx
+  wetmarket-pangolin-4783:local-playground: 831e357e-4be2-9d12-42903aa2axxx
