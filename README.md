@@ -12,7 +12,7 @@ A CLI script to fetch thread data from the PromptQL API and output it as JSON, m
    ```
    pip install -r requirements.txt
    ```
-
+3. Create an API key for your PromptQL project.  You can create API keys in the PromptQL settings in the playgound
 ## Usage
 
 You can now provide the API key in three ways (highest priority first):
